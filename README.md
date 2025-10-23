@@ -39,6 +39,6 @@ The project generates:
 ## 🛠️ How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Waweru_Michael/Customer-Churn-Prediction.git
+   git clone https://github.com/G-Waweru25/Customer-Churn-Prediction.git
    cd Customer-Churn-Prediction
 
